@@ -1,0 +1,2 @@
+# Frequency Distribution
+## توزیع فراوانی
